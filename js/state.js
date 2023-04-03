@@ -1,5 +1,5 @@
 export default {
-  url: "https://v6.exchangerate-api.com/v6/{API KEY}",
+  url: "https://v6.exchangerate-api.com/v6/0b956ca369720d5836cbf717",
   codes: [],
   pair: {
     from: "",
